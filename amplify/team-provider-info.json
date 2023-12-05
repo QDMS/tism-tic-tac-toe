@@ -1,15 +1,23 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-tismtictactoe-dev-220202-authRole",
-      "UnauthRoleArn": "arn:aws:iam::838288837862:role/amplify-tismtictactoe-dev-220202-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::838288837862:role/amplify-tismtictactoe-dev-220202-authRole",
+      "AuthRoleName": "amplify-tismtictactoe-dev-75121-authRole",
+      "UnauthRoleArn": "arn:aws:iam::838288837862:role/amplify-tismtictactoe-dev-75121-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::838288837862:role/amplify-tismtictactoe-dev-75121-authRole",
       "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-tismtictactoe-dev-220202-deployment",
-      "UnauthRoleName": "amplify-tismtictactoe-dev-220202-unauthRole",
-      "StackName": "amplify-tismtictactoe-dev-220202",
-      "StackId": "arn:aws:cloudformation:us-east-1:838288837862:stack/amplify-tismtictactoe-dev-220202/b28fdef0-931a-11ee-b2ac-125b69b25e3b",
-      "AmplifyAppId": "dzalikphwfpoa"
+      "DeploymentBucketName": "amplify-tismtictactoe-dev-75121-deployment",
+      "UnauthRoleName": "amplify-tismtictactoe-dev-75121-unauthRole",
+      "StackName": "amplify-tismtictactoe-dev-75121",
+      "StackId": "arn:aws:cloudformation:us-east-1:838288837862:stack/amplify-tismtictactoe-dev-75121/06dcb530-936d-11ee-8c6e-0e36ab078769",
+      "AmplifyAppId": "dw5vlbm6y3pci"
+    },
+    "categories": {
+      "auth": {
+        "tismtictactoe903601c1": {}
+      },
+      "api": {
+        "tismtictactoe": {}
+      }
     }
   }
 }
